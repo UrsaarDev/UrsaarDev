@@ -7,9 +7,12 @@ Also I'm familiar with building a backend system.
 I have knowledge of coding languages, algorithms, basic understanding of the processes, structures., and a wide variety of programming tools.
 Also familiarized myself with the backend frameworks.
 
-<div>
+
+<div style="text-align: center">
     <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 </div>
+
+
 
 <div>
     <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
